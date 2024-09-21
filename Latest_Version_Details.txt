@@ -1,0 +1,3 @@
+- Simulator Accuracy is now more stable
+- Third Party Control support has been added
+- Minor Bugs Fixed
