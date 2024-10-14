@@ -1,3 +1,3 @@
 - Simulator Accuracy is now more stable
-- Third Party Microcontroller support has been added
-- Minor Bugs Fixed
+- Obstacle Avoider Robots Added!
+- MISSING: Telemetry Data Transfer (expect in V1.0.2)
