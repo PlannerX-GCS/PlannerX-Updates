@@ -1,3 +1,3 @@
-- Screen Resolution Issue is now resolved
-- Free Trial Introduced for New Users
-- MISSING: Telemetry Data Transfer (expect in V1.0.2)
+- Now take a full-trial of 15 Minutes with absolutely zero restrictions
+- USB Data Transfer now available.
+- MISSING: Telemetry Data Transfer (expect in V1.0.4)
